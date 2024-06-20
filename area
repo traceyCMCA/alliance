@@ -1,0 +1,1863 @@
+{
+    "2527": {
+        "id": 2527,
+        "name": "Liverpool City Council",
+        "parent_area": null,
+        "type": "MTD",
+        "type_name": "Metropolitan district",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00BY",
+            "local-authority-canonical": "LIV",
+            "local-authority-eng": "LIV",
+            "gss": "E08000012",
+            "unit_id": "22829"
+        },
+        "all_names": {}
+    },
+    "2536": {
+        "id": 2536,
+        "name": "Sefton Borough Council",
+        "parent_area": null,
+        "type": "MTD",
+        "type_name": "Metropolitan district",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CA",
+            "local-authority-canonical": "SFT",
+            "local-authority-eng": "SFT",
+            "gss": "E08000014",
+            "unit_id": "22838"
+        },
+        "all_names": {}
+    },
+    "2541": {
+        "id": 2541,
+        "name": "St Helens Borough Council",
+        "parent_area": null,
+        "type": "MTD",
+        "type_name": "Metropolitan district",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00BZ",
+            "local-authority-canonical": "SHN",
+            "local-authority-eng": "SHN",
+            "gss": "E08000013",
+            "unit_id": "22843"
+        },
+        "all_names": {}
+    },
+    "2548": {
+        "id": 2548,
+        "name": "Wirral Borough Council",
+        "parent_area": null,
+        "type": "MTD",
+        "type_name": "Metropolitan district",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CB",
+            "local-authority-canonical": "WRL",
+            "local-authority-eng": "WRL",
+            "gss": "E08000015",
+            "unit_id": "22850"
+        },
+        "all_names": {}
+    },
+    "2580": {
+        "id": 2580,
+        "name": "Halton Borough Council",
+        "parent_area": null,
+        "type": "UTA",
+        "type_name": "Unitary Authority",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00ET",
+            "local-authority-canonical": "HAL",
+            "local-authority-eng": "HAL",
+            "gss": "E06000006",
+            "unit_id": "22887"
+        },
+        "all_names": {}
+    },
+    "2618": {
+        "id": 2618,
+        "name": "Warrington Borough Council",
+        "parent_area": null,
+        "type": "UTA",
+        "type_name": "Unitary Authority",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00EU",
+            "local-authority-canonical": "WRT",
+            "local-authority-eng": "WRT",
+            "gss": "E06000007",
+            "unit_id": "22923"
+        },
+        "all_names": {}
+    },
+    "9280": {
+        "id": 9280,
+        "name": "Meols",
+        "parent_area": 2536,
+        "type": "MTW",
+        "type_name": "Metropolitan district ward",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CAHN",
+            "gss": "E05000945",
+            "unit_id": "28817"
+        },
+        "all_names": {}
+    },
+    "9281": {
+        "id": 9281,
+        "name": "Manor",
+        "parent_area": 2536,
+        "type": "MTW",
+        "type_name": "Metropolitan district ward",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CAHM",
+            "gss": "E05000944",
+            "unit_id": "28818"
+        },
+        "all_names": {}
+    },
+    "9284": {
+        "id": 9284,
+        "name": "Harington",
+        "parent_area": 2536,
+        "type": "MTW",
+        "type_name": "Metropolitan district ward",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CAHH",
+            "gss": "E05000940",
+            "unit_id": "28821"
+        },
+        "all_names": {}
+    },
+    "9285": {
+        "id": 9285,
+        "name": "Ravenmeols",
+        "parent_area": 2536,
+        "type": "MTW",
+        "type_name": "Metropolitan district ward",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CAHT",
+            "gss": "E05000950",
+            "unit_id": "28822"
+        },
+        "all_names": {}
+    },
+    "9288": {
+        "id": 9288,
+        "name": "Cambridge",
+        "parent_area": 2536,
+        "type": "MTW",
+        "type_name": "Metropolitan district ward",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CAHC",
+            "gss": "E05000935",
+            "unit_id": "28825"
+        },
+        "all_names": {}
+    },
+    "9534": {
+        "id": 9534,
+        "name": "Heswall",
+        "parent_area": 2548,
+        "type": "MTW",
+        "type_name": "Metropolitan district ward",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CBGH",
+            "gss": "E05000962",
+            "unit_id": "29069"
+        },
+        "all_names": {}
+    },
+    "9538": {
+        "id": 9538,
+        "name": "Hoylake and Meols",
+        "parent_area": 2548,
+        "type": "MTW",
+        "type_name": "Metropolitan district ward",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 1,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CBGJ",
+            "gss": "E05000963",
+            "unit_id": "29073"
+        },
+        "all_names": {}
+    },
+    "21068": {
+        "id": 21068,
+        "name": "Cheshire West and Chester Council",
+        "parent_area": null,
+        "type": "UTA",
+        "type_name": "Unitary Authority",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 11,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E06000050",
+            "unit_id": "22866",
+            "ons": "00EW",
+            "local-authority-canonical": "CHW",
+            "local-authority-eng": "CHW"
+        },
+        "all_names": {}
+    },
+    "21069": {
+        "id": 21069,
+        "name": "Cheshire East Council",
+        "parent_area": null,
+        "type": "UTA",
+        "type_name": "Unitary Authority",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 11,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00EQ",
+            "local-authority-canonical": "CHE",
+            "local-authority-eng": "CHE",
+            "gss": "E06000049",
+            "unit_id": "22865"
+        },
+        "all_names": {}
+    },
+    "35247": {
+        "id": 35247,
+        "name": "Liverpool 022",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02001368"
+        },
+        "all_names": {}
+    },
+    "35308": {
+        "id": 35308,
+        "name": "Sefton 001",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02001429"
+        },
+        "all_names": {}
+    },
+    "35311": {
+        "id": 35311,
+        "name": "Sefton 004",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02001432"
+        },
+        "all_names": {}
+    },
+    "35316": {
+        "id": 35316,
+        "name": "Sefton 009",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02001437"
+        },
+        "all_names": {}
+    },
+    "35319": {
+        "id": 35319,
+        "name": "Sefton 012",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02001440"
+        },
+        "all_names": {}
+    },
+    "35339": {
+        "id": 35339,
+        "name": "Sefton 032",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02001460"
+        },
+        "all_names": {}
+    },
+    "35371": {
+        "id": 35371,
+        "name": "Wirral 026",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02001492"
+        },
+        "all_names": {}
+    },
+    "35385": {
+        "id": 35385,
+        "name": "Wirral 040",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02001506"
+        },
+        "all_names": {}
+    },
+    "36460": {
+        "id": 36460,
+        "name": "Halton 008",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02002581"
+        },
+        "all_names": {}
+    },
+    "36462": {
+        "id": 36462,
+        "name": "Halton 010",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02002583"
+        },
+        "all_names": {}
+    },
+    "36485": {
+        "id": 36485,
+        "name": "Warrington 017",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02002606"
+        },
+        "all_names": {}
+    },
+    "37682": {
+        "id": 37682,
+        "name": "Chester 010",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02003803"
+        },
+        "all_names": {}
+    },
+    "37720": {
+        "id": 37720,
+        "name": "Ellesmere Port & Neston 001",
+        "parent_area": null,
+        "type": "OMF",
+        "type_name": "Middle Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E02003841"
+        },
+        "all_names": {}
+    },
+    "53699": {
+        "id": 53699,
+        "name": "Formby",
+        "parent_area": 2536,
+        "type": "CPC",
+        "type_name": "Civil parish/community",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 12,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CA010",
+            "gss": "E04000038",
+            "unit_id": "16327"
+        },
+        "all_names": {}
+    },
+    "54873": {
+        "id": 54873,
+        "name": "Prestbury",
+        "parent_area": 21069,
+        "type": "CPC",
+        "type_name": "Civil parish/community",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 12,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00EQ108",
+            "gss": "E04010996",
+            "unit_id": "17318"
+        },
+        "all_names": {}
+    },
+    "55445": {
+        "id": 55445,
+        "name": "Hale",
+        "parent_area": 2580,
+        "type": "CPC",
+        "type_name": "Civil parish/community",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 12,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00ET002",
+            "gss": "E04000314",
+            "unit_id": "18454"
+        },
+        "all_names": {}
+    },
+    "55795": {
+        "id": 55795,
+        "name": "Neston",
+        "parent_area": 21068,
+        "type": "CPC",
+        "type_name": "Civil parish/community",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 12,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00EW114",
+            "gss": "E04011145",
+            "unit_id": "17422"
+        },
+        "all_names": {}
+    },
+    "56296": {
+        "id": 56296,
+        "name": "Hightown",
+        "parent_area": 2536,
+        "type": "CPC",
+        "type_name": "Civil parish/community",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 12,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00CA009",
+            "gss": "E04000037",
+            "unit_id": "16330"
+        },
+        "all_names": {}
+    },
+    "61292": {
+        "id": 61292,
+        "name": "Rainford",
+        "parent_area": 2541,
+        "type": "CPC",
+        "type_name": "Civil parish/community",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 12,
+        "generation_high": 54,
+        "codes": {
+            "ons": "00BZ004",
+            "gss": "E04000025",
+            "unit_id": "16367"
+        },
+        "all_names": {}
+    },
+    "65581": {
+        "id": 65581,
+        "name": "Birkenhead",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14000559",
+            "unit_id": "31357"
+        },
+        "all_names": {}
+    },
+    "65635": {
+        "id": 65635,
+        "name": "Wallasey",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001010",
+            "unit_id": "31859"
+        },
+        "all_names": {}
+    },
+    "65706": {
+        "id": 65706,
+        "name": "Sefton Central",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14000916",
+            "unit_id": "31764"
+        },
+        "all_names": {}
+    },
+    "65728": {
+        "id": 65728,
+        "name": "Southport",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14000958",
+            "unit_id": "31784"
+        },
+        "all_names": {}
+    },
+    "65734": {
+        "id": 65734,
+        "name": "City of Chester",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14000640",
+            "unit_id": "31444"
+        },
+        "all_names": {}
+    },
+    "65847": {
+        "id": 65847,
+        "name": "Wirral South",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001043",
+            "unit_id": "31892"
+        },
+        "all_names": {}
+    },
+    "65896": {
+        "id": 65896,
+        "name": "Macclesfield",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14000802",
+            "unit_id": "31640"
+        },
+        "all_names": {}
+    },
+    "65897": {
+        "id": 65897,
+        "name": "Wirral West",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001044",
+            "unit_id": "31893"
+        },
+        "all_names": {}
+    },
+    "65900": {
+        "id": 65900,
+        "name": "Garston and Halewood",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14000708",
+            "unit_id": "31530"
+        },
+        "all_names": {}
+    },
+    "65915": {
+        "id": 65915,
+        "name": "Halton",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14000725",
+            "unit_id": "31556"
+        },
+        "all_names": {}
+    },
+    "65916": {
+        "id": 65916,
+        "name": "Warrington South",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001018",
+            "unit_id": "31867"
+        },
+        "all_names": {}
+    },
+    "65964": {
+        "id": 65964,
+        "name": "Tatton",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14000987",
+            "unit_id": "31835"
+        },
+        "all_names": {}
+    },
+    "65991": {
+        "id": 65991,
+        "name": "Ellesmere Port and Neston",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14000688",
+            "unit_id": "31509"
+        },
+        "all_names": {}
+    },
+    "66073": {
+        "id": 66073,
+        "name": "St Helens North",
+        "parent_area": null,
+        "type": "WMC",
+        "type_name": "UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14000962",
+            "unit_id": "31825"
+        },
+        "all_names": {}
+    },
+    "72917": {
+        "id": 72917,
+        "name": "Liverpool 022B",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01006776"
+        },
+        "all_names": {}
+    },
+    "73063": {
+        "id": 73063,
+        "name": "Sefton 012B",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01006922"
+        },
+        "all_names": {}
+    },
+    "73091": {
+        "id": 73091,
+        "name": "Sefton 004B",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01006950"
+        },
+        "all_names": {}
+    },
+    "73098": {
+        "id": 73098,
+        "name": "Sefton 032C",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01006957"
+        },
+        "all_names": {}
+    },
+    "73177": {
+        "id": 73177,
+        "name": "Sefton 001E",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01007036"
+        },
+        "all_names": {}
+    },
+    "73328": {
+        "id": 73328,
+        "name": "Wirral 040B",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01007187"
+        },
+        "all_names": {}
+    },
+    "73331": {
+        "id": 73331,
+        "name": "Wirral 040E",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01007190"
+        },
+        "all_names": {}
+    },
+    "73332": {
+        "id": 73332,
+        "name": "Wirral 040F",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01007191"
+        },
+        "all_names": {}
+    },
+    "73337": {
+        "id": 73337,
+        "name": "Wirral 026A",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01007196"
+        },
+        "all_names": {}
+    },
+    "78523": {
+        "id": 78523,
+        "name": "Halton 010B",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01012382"
+        },
+        "all_names": {}
+    },
+    "78542": {
+        "id": 78542,
+        "name": "Halton 008C",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01012401"
+        },
+        "all_names": {}
+    },
+    "78651": {
+        "id": 78651,
+        "name": "Warrington 017D",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01012510"
+        },
+        "all_names": {}
+    },
+    "84467": {
+        "id": 84467,
+        "name": "Chester 010A",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01018326"
+        },
+        "all_names": {}
+    },
+    "84471": {
+        "id": 84471,
+        "name": "Chester 010D",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01018330"
+        },
+        "all_names": {}
+    },
+    "84678": {
+        "id": 84678,
+        "name": "Ellesmere Port & Neston 001D",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01018537"
+        },
+        "all_names": {}
+    },
+    "135273": {
+        "id": 135273,
+        "name": "High Legh",
+        "parent_area": 21069,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 15,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05008631",
+            "unit_id": "29281"
+        },
+        "all_names": {}
+    },
+    "135286": {
+        "id": 135286,
+        "name": "Wilmslow West and Chorley",
+        "parent_area": 21069,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 15,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05008658",
+            "unit_id": "29294"
+        },
+        "all_names": {}
+    },
+    "135288": {
+        "id": 135288,
+        "name": "Prestbury",
+        "parent_area": 21069,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 15,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05008647",
+            "unit_id": "29296"
+        },
+        "all_names": {}
+    },
+    "135503": {
+        "id": 135503,
+        "name": "Wilmslow",
+        "parent_area": 21069,
+        "type": "CPC",
+        "type_name": "Civil parish/community",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 16,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E04012173",
+            "unit_id": "17316"
+        },
+        "all_names": {}
+    },
+    "148698": {
+        "id": 148698,
+        "name": "Bewsey & Whitecross",
+        "parent_area": 2618,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 28,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05011025",
+            "unit_id": "30283"
+        },
+        "all_names": {}
+    },
+    "148702": {
+        "id": 148702,
+        "name": "Great Sankey South",
+        "parent_area": 2618,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 28,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05011033",
+            "unit_id": "30287"
+        },
+        "all_names": {}
+    },
+    "148704": {
+        "id": 148704,
+        "name": "Latchford West",
+        "parent_area": 2618,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 28,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05011035",
+            "unit_id": "30289"
+        },
+        "all_names": {}
+    },
+    "153022": {
+        "id": 153022,
+        "name": "Parkgate",
+        "parent_area": 21068,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 36,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05012232",
+            "unit_id": "29337"
+        },
+        "all_names": {}
+    },
+    "153033": {
+        "id": 153033,
+        "name": "Blacon",
+        "parent_area": 21068,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 36,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05012209",
+            "unit_id": "29348"
+        },
+        "all_names": {}
+    },
+    "153507": {
+        "id": 153507,
+        "name": "Chester City & the Garden Quarter",
+        "parent_area": 21068,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 36,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05012211",
+            "unit_id": "30462"
+        },
+        "all_names": {}
+    },
+    "153508": {
+        "id": 153508,
+        "name": "Gowy Rural",
+        "parent_area": 21068,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 36,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05012216",
+            "unit_id": "30463"
+        },
+        "all_names": {}
+    },
+    "163587": {
+        "id": 163587,
+        "name": "Birkenhead",
+        "parent_area": null,
+        "type": "TTW",
+        "type_name": "Travel to Work Areas",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 38,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E30000168"
+        },
+        "all_names": {}
+    },
+    "163652": {
+        "id": 163652,
+        "name": "Liverpool",
+        "parent_area": null,
+        "type": "TTW",
+        "type_name": "Travel to Work Areas",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 38,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E30000233"
+        },
+        "all_names": {}
+    },
+    "163658": {
+        "id": 163658,
+        "name": "Manchester",
+        "parent_area": null,
+        "type": "TTW",
+        "type_name": "Travel to Work Areas",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 38,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E30000239"
+        },
+        "all_names": {}
+    },
+    "163692": {
+        "id": 163692,
+        "name": "Stoke-on-Trent",
+        "parent_area": null,
+        "type": "TTW",
+        "type_name": "Travel to Work Areas",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 38,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E30000273"
+        },
+        "all_names": {}
+    },
+    "163703": {
+        "id": 163703,
+        "name": "Warrington and Wigan",
+        "parent_area": null,
+        "type": "TTW",
+        "type_name": "Travel to Work Areas",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 38,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E30000284"
+        },
+        "all_names": {}
+    },
+    "163716": {
+        "id": 163716,
+        "name": "Chester",
+        "parent_area": null,
+        "type": "TTW",
+        "type_name": "Travel to Work Areas",
+        "country": "",
+        "country_name": "-",
+        "generation_low": 38,
+        "generation_high": 54,
+        "codes": {
+            "gss": "K01000011"
+        },
+        "all_names": {}
+    },
+    "164435": {
+        "id": 164435,
+        "name": "Ditton, Hale Village & Halebank",
+        "parent_area": 2580,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 43,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05013176",
+            "unit_id": "30797"
+        },
+        "all_names": {}
+    },
+    "164440": {
+        "id": 164440,
+        "name": "Halton Castle",
+        "parent_area": 2580,
+        "type": "UTW",
+        "type_name": "Unitary Authority ward (UTW)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 43,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05013179",
+            "unit_id": "30802"
+        },
+        "all_names": {}
+    },
+    "164858": {
+        "id": 164858,
+        "name": "North West",
+        "parent_area": null,
+        "type": "ER",
+        "type_name": "English Region",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 44,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E12000002",
+            "unit_id": "6971"
+        },
+        "all_names": {}
+    },
+    "164962": {
+        "id": 164962,
+        "name": "Wirral, unparished area",
+        "parent_area": null,
+        "type": "NCP",
+        "type_name": "Non-civil parished area",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 44,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E43000169"
+        },
+        "all_names": {}
+    },
+    "165026": {
+        "id": 165026,
+        "name": "Liverpool, unparished area",
+        "parent_area": null,
+        "type": "NCP",
+        "type_name": "Non-civil parished area",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 44,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E43000166"
+        },
+        "all_names": {}
+    },
+    "165035": {
+        "id": 165035,
+        "name": "Sefton, unparished area",
+        "parent_area": null,
+        "type": "NCP",
+        "type_name": "Non-civil parished area",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 44,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E43000168"
+        },
+        "all_names": {}
+    },
+    "165052": {
+        "id": 165052,
+        "name": "Cheshire West and Chester, unparished area",
+        "parent_area": null,
+        "type": "NCP",
+        "type_name": "Non-civil parished area",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 44,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E43000272"
+        },
+        "all_names": {}
+    },
+    "165073": {
+        "id": 165073,
+        "name": "Warrington, unparished area",
+        "parent_area": null,
+        "type": "NCP",
+        "type_name": "Non-civil parished area",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 44,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E43000007"
+        },
+        "all_names": {}
+    },
+    "165077": {
+        "id": 165077,
+        "name": "Halton, unparished area",
+        "parent_area": null,
+        "type": "NCP",
+        "type_name": "Non-civil parished area",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 44,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E43000006"
+        },
+        "all_names": {}
+    },
+    "165614": {
+        "id": 165614,
+        "name": "Rainford",
+        "parent_area": 2541,
+        "type": "MTW",
+        "type_name": "Metropolitan district ward",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 46,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05014130",
+            "unit_id": "28931"
+        },
+        "all_names": {}
+    },
+    "167551": {
+        "id": 167551,
+        "name": "Waterfront North",
+        "parent_area": 2527,
+        "type": "MTW",
+        "type_name": "Metropolitan district ward",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 50,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E05015332",
+            "unit_id": "28642"
+        },
+        "all_names": {}
+    },
+    "168135": {
+        "id": 168135,
+        "name": "Little Bollington with Agden",
+        "parent_area": 21069,
+        "type": "CPC",
+        "type_name": "Civil parish/community",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 50,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E04013191",
+            "unit_id": "17370"
+        },
+        "all_names": {}
+    },
+    "168315": {
+        "id": 168315,
+        "name": "NHS Cheshire and Merseyside ICB - 01F",
+        "parent_area": 168253,
+        "type": "SICBL",
+        "type_name": "Sub ICB Location",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 52,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E38000068"
+        },
+        "all_names": {}
+    },
+    "168323": {
+        "id": 168323,
+        "name": "NHS Cheshire and Merseyside ICB - 99A",
+        "parent_area": 168253,
+        "type": "SICBL",
+        "type_name": "Sub ICB Location",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 52,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E38000101"
+        },
+        "all_names": {}
+    },
+    "168339": {
+        "id": 168339,
+        "name": "NHS Cheshire and Merseyside ICB - 01T",
+        "parent_area": 168253,
+        "type": "SICBL",
+        "type_name": "Sub ICB Location",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 52,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E38000161"
+        },
+        "all_names": {}
+    },
+    "168342": {
+        "id": 168342,
+        "name": "NHS Cheshire and Merseyside ICB - 01V",
+        "parent_area": 168253,
+        "type": "SICBL",
+        "type_name": "Sub ICB Location",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 52,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E38000170"
+        },
+        "all_names": {}
+    },
+    "168343": {
+        "id": 168343,
+        "name": "NHS Cheshire and Merseyside ICB - 01X",
+        "parent_area": 168253,
+        "type": "SICBL",
+        "type_name": "Sub ICB Location",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 52,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E38000172"
+        },
+        "all_names": {}
+    },
+    "168352": {
+        "id": 168352,
+        "name": "NHS Cheshire and Merseyside ICB - 02E",
+        "parent_area": 168253,
+        "type": "SICBL",
+        "type_name": "Sub ICB Location",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 52,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E38000194"
+        },
+        "all_names": {}
+    },
+    "168358": {
+        "id": 168358,
+        "name": "NHS Cheshire and Merseyside ICB - 12F",
+        "parent_area": 168253,
+        "type": "SICBL",
+        "type_name": "Sub ICB Location",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 52,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E38000208"
+        },
+        "all_names": {}
+    },
+    "168372": {
+        "id": 168372,
+        "name": "NHS Cheshire and Merseyside ICB - 27D",
+        "parent_area": 168253,
+        "type": "SICBL",
+        "type_name": "Sub ICB Location",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 52,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E38000233"
+        },
+        "all_names": {}
+    },
+    "168624": {
+        "id": 168624,
+        "name": "Southport",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001504",
+            "rae-brown": "SOP"
+        },
+        "all_names": {}
+    },
+    "168627": {
+        "id": 168627,
+        "name": "Sefton Central",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001463",
+            "rae-brown": "SEF"
+        },
+        "all_names": {}
+    },
+    "168628": {
+        "id": 168628,
+        "name": "Bootle",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001113",
+            "rae-brown": "BTL"
+        },
+        "all_names": {}
+    },
+    "168637": {
+        "id": 168637,
+        "name": "Liverpool Riverside",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001338",
+            "rae-brown": "LRV"
+        },
+        "all_names": {}
+    },
+    "168645": {
+        "id": 168645,
+        "name": "Widnes and Halewood",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001584",
+            "rae-brown": "WAH"
+        },
+        "all_names": {}
+    },
+    "168655": {
+        "id": 168655,
+        "name": "Warrington South",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001565",
+            "rae-brown": "WAS"
+        },
+        "all_names": {}
+    },
+    "168656": {
+        "id": 168656,
+        "name": "Warrington North",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001564",
+            "rae-brown": "WAN"
+        },
+        "all_names": {}
+    },
+    "168657": {
+        "id": 168657,
+        "name": "Altrincham and Sale West",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001065",
+            "rae-brown": "ASW"
+        },
+        "all_names": {}
+    },
+    "168660": {
+        "id": 168660,
+        "name": "Tatton",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001539",
+            "rae-brown": "TAT"
+        },
+        "all_names": {}
+    },
+    "168662": {
+        "id": 168662,
+        "name": "Wirral West",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001589",
+            "rae-brown": "WIR"
+        },
+        "all_names": {}
+    },
+    "168666": {
+        "id": 168666,
+        "name": "Chester South and Eddisbury",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001164",
+            "rae-brown": "CHS"
+        },
+        "all_names": {}
+    },
+    "168669": {
+        "id": 168669,
+        "name": "Wallasey",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001561",
+            "rae-brown": "WLL"
+        },
+        "all_names": {}
+    },
+    "168672": {
+        "id": 168672,
+        "name": "Chester North and Neston",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001163",
+            "rae-brown": "CHN"
+        },
+        "all_names": {}
+    },
+    "168673": {
+        "id": 168673,
+        "name": "Cheadle",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001158",
+            "rae-brown": "CDL"
+        },
+        "all_names": {}
+    },
+    "168674": {
+        "id": 168674,
+        "name": "Ellesmere Port and Bromborough",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001222",
+            "rae-brown": "ELP"
+        },
+        "all_names": {}
+    },
+    "168675": {
+        "id": 168675,
+        "name": "Birkenhead",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001091",
+            "rae-brown": "BKH"
+        },
+        "all_names": {}
+    },
+    "168676": {
+        "id": 168676,
+        "name": "Runcorn and Helsby",
+        "parent_area": null,
+        "type": "WMCF",
+        "type_name": "Future UK Parliament constituency",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 53,
+        "generation_high": 54,
+        "codes": {
+            "gss": "E14001455",
+            "rae-brown": "RAH"
+        },
+        "all_names": {}
+    }
+}
