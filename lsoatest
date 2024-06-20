@@ -1,0 +1,228 @@
+{
+    "72917": {
+        "id": 72917,
+        "name": "Liverpool 022B",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01006776"
+        },
+        "all_names": {}
+    },
+    "73063": {
+        "id": 73063,
+        "name": "Sefton 012B",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01006922"
+        },
+        "all_names": {}
+    },
+    "73091": {
+        "id": 73091,
+        "name": "Sefton 004B",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01006950"
+        },
+        "all_names": {}
+    },
+    "73098": {
+        "id": 73098,
+        "name": "Sefton 032C",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01006957"
+        },
+        "all_names": {}
+    },
+    "73177": {
+        "id": 73177,
+        "name": "Sefton 001E",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01007036"
+        },
+        "all_names": {}
+    },
+    "73328": {
+        "id": 73328,
+        "name": "Wirral 040B",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01007187"
+        },
+        "all_names": {}
+    },
+    "73331": {
+        "id": 73331,
+        "name": "Wirral 040E",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01007190"
+        },
+        "all_names": {}
+    },
+    "73332": {
+        "id": 73332,
+        "name": "Wirral 040F",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01007191"
+        },
+        "all_names": {}
+    },
+    "73337": {
+        "id": 73337,
+        "name": "Wirral 026A",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01007196"
+        },
+        "all_names": {}
+    },
+    "78523": {
+        "id": 78523,
+        "name": "Halton 010B",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01012382"
+        },
+        "all_names": {}
+    },
+    "78542": {
+        "id": 78542,
+        "name": "Halton 008C",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01012401"
+        },
+        "all_names": {}
+    },
+    "78651": {
+        "id": 78651,
+        "name": "Warrington 017D",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01012510"
+        },
+        "all_names": {}
+    },
+    "84467": {
+        "id": 84467,
+        "name": "Chester 010A",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01018326"
+        },
+        "all_names": {}
+    },
+    "84471": {
+        "id": 84471,
+        "name": "Chester 010D",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01018330"
+        },
+        "all_names": {}
+    },
+    "84678": {
+        "id": 84678,
+        "name": "Ellesmere Port & Neston 001D",
+        "parent_area": null,
+        "type": "OLF",
+        "type_name": "Lower Layer Super Output Area (Full)",
+        "country": "E",
+        "country_name": "England",
+        "generation_low": 13,
+        "generation_high": 54,
+        "codes": {
+            "ons": "E01018537"
+        },
+        "all_names": {}
+    }
+   
+}
